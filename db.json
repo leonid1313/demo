@@ -23,18 +23,6 @@
     { "id": 21, "title": "", "img": "", "description": "", "price": "" },
     { "id": 22, "title": "", "img": "", "description": "", "price": "" },
     { "id": 23, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 24, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 25, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 26, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 27, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 28, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 29, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 30, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 31, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 32, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 33, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 34, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 35, "title": "", "img": "", "description": "", "price": "" },
-    { "id": 36, "title": "", "img": "", "description": "", "price": "" }
+    { "id": 24, "title": "", "img": "", "description": "", "price": "" }
   ]
 }
