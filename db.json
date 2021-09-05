@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Samsung Galaxy S20 FE (2021)", "img": "https://hotline.ua/img/tx/238/2384246855.jpg", "description": "Экран (6.5, Super AMOLED, 2400x1080) / Qualcomm Snapdragon 865", "price": "16499" },
+    { "id": 1, "title": "Samsung Galaxy S20 FE (2021)", "img": "https://many-instructions.ru/wp-content/uploads/2020/11/Samsung-Galaxy-S20-FE-300x200.jpg", "description": "Экран (6.5, Super AMOLED, 2400x1080) / Qualcomm Snapdragon 865", "price": "16499" },
     { "id": 2, "title": "Asus ROG Phone 5 5G 12/256Gb", "img": "https://content.rozetka.com.ua/goods/images/big/194444094.jpg", "description": "Разрешение экрана: 1080x2340 pxЦвет: Чёрный (Black) Оперативная память: 12Gb Размер экрана (Дюймы): 6,78", "price": "39999" },
     { "id": 3, "title": "Motorola Razr 5G 8/256GB Graphite", "img": "https://content2.rozetka.com.ua/goods/images/big/169925194.jpg", "description": "Элегантные линии дизайна графита Motorola RAZR 5G порадуют вас не раз. После раскладывания этот красивый корпус скрывает большой 6,2-дюймовый экран POLED. Откройте свой смартфон и начните им пользоваться, воспроизводите свой любимый контент и наслаждайтесь отображаемыми сценами.", "price": "64799" },
     { "id": 4, "title": "Samsung Galaxy Z Fold3 12/512GB", "img": "https://content2.rozetka.com.ua/goods/images/big/201628855.jpg", "description": "кран (6.2, Dynamic AMOLED 2X, 2268x832) + (7.6, Dynamic AMOLED 2X, 2208x1768) / Qualcomm Snapdragon 888 (2.84 ГГц + 2.4 ГГц + 1.8 ГГц) ", "price": "59999" },
