@@ -1,28 +1,310 @@
 {
-  "posts": [
-    { "id": 1, "title": "Samsung Galaxy S20 FE (2021)", "img": "https://skymarket.ua/image/cache/catalog/telefony/Samsung/smartfon-samsung-galaxy-s20-fe-2021-g780g-128gb-white_2-300x300.jpg", "description": "Экран (6.5, Super AMOLED, 2400x1080) / Qualcomm Snapdragon 865", "price": "16499" },
-    { "id": 2, "title": "Asus ROG Phone 5 5G 12/256Gb", "img": "https://cdn.synthetic.com.ua/media/assets/images/0/8/f/b/6/9/5/e/e/f/b/3/4/4/6/5/300x300/08fb695eefb34465a61a7490dc032c57.jpg", "description": "Разрешение экрана: 1080x2340 pxЦвет: Чёрный (Black) Оперативная память: 12Gb Размер экрана (Дюймы): 6,78", "price": "39999" },
-    { "id": 3, "title": "Motorola Razr 5G 8/256GB Graphite", "img": "https://fdn.gsmarena.com/imgroot/news/20/09/motorola-razr-5g-china-price/-315/gsmarena_003.jpg", "description": "Элегантные линии дизайна графита Motorola RAZR 5G порадуют вас не раз. После раскладывания этот красивый корпус скрывает большой 6,2-дюймовый экран POLED. Откройте свой смартфон и начните им пользоваться, воспроизводите свой любимый контент и наслаждайтесь отображаемыми сценами.", "price": "64799" },
-    { "id": 4, "title": "Samsung Galaxy Z Fold3 12/512GB", "img": "https://сота.укр/image/cache/data/Samsung/saamsung-SM-F916-blk-04-300x300.jpg", "description": "кран (6.2, Dynamic AMOLED 2X, 2268x832) + (7.6, Dynamic AMOLED 2X, 2208x1768) / Qualcomm Snapdragon 888 (2.84 ГГц + 2.4 ГГц + 1.8 ГГц) ", "price": "59999" },
-    { "id": 5, "title": "Apple iPhone 12 Pro Max 512GB", "img": "https://tvoygadget.com.ua/wp-content/uploads/2020/10/apple_iphone_12_pro_512gb_blue_dual_sim_2-300x300.jpg", "description": "Экран (6.7, OLED (Super Retina XDR), 2778x1284) / Apple A14 Bionic / тройная основная камера", "price": "50499" },
-    { "id": 6, "title": "Microsoft Surface Duo 6GB/256GB", "img": "https://content2.rozetka.com.ua/goods/images/big/184037404.jpg", "description": "Тип матрицы AMOLED Операционная система Android Количество СИМ-карт", "price": "34840" },
-    { "id": 7, "title": "Google Pixel 4 128GB Clearly White", "img": "https://сота.укр/image/cache/data/Google-Pixel/google-pixel-4-orange-01-300x300.jpg", "description": "Диагональ экрана:5.7 / Разрешение дисплея:2220x1080 / Тип матрицы:OLED / Количество ядер:8", "price": "16398" },
-    { "id": 8, "title": "ASUS ZenFone 8 Flip", "img": "https://сота.укр/image/cache/data/Asus/asus-zenfone-8-flip-slv-03-300x300.jpg", "description": "Стандарт связи 3G Диагональ экрана 6.67 Емкость аккумулятора 5000 мА*ч Оперативная память 8 ГБ Количество мегапикселей основной камеры 64 Мп", "price": "29333" },
-    { "id": 9, "title": "Samsung Galaxy S21 Ultra 12/128GB", "img": "https://skymarket.ua/image/cache/catalog/telefony/Samsung/samsung-g998b-galaxy-s21-ultra-5g-12-256gb-phantom-silver-300x300.jpg", "description": "Экран (6.8, Dynamic AMOLED 2X, 3200x1440)/ Samsung Exynos 2100 (1 x 2.9 ГГц + 3 x 2.8 ГГц + 4 x 2.2 ГГц)", "price": "32999" },
-    { "id": 10, "title": "OnePlus 9 Pro (LE2123)", "img": "https://i.ebayimg.com/images/g/SP8AAOSwpjtgZFX4/s-l300.jpg", "description": "Стандарт связи4G (LTE) Диагональ экрана 6.7 Емкость аккумулятора 4500 мА*ч Оперативная память 8 ГБ", "price": "31032" },
-    { "id": 11, "title": "Apple iPhone 12 256GB", "img": "https://yellow.ua/media/catalog/product/cache/8/small_image/300x300/9df78eab33525d08d6e5fb8d27136e95/a/p/xapple_iphone_12_256gb_red_dual_sim_1.jpg.pagespeed.ic.U7LDzP9UT1.jpg", "description": "Экран (6.1, OLED (Super Retina XDR), 2532x1170) / Apple A14 Bionic / двойная основная камера: 12 Мп + 12 Мп, фронтальная камера: 12 Мп / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM, eSIM / iOS 14", "price": "32499" },
-    { "id": 12, "title": "Sony Xperia 1 II XQ-AT52", "img": "https://сота.укр/image/cache/data/Sony/sony-XQ-AT51-02-300x300.jpg", "description": "Стандарт связи 2G (GPRS/EDGE) Диагональ экрана 6.5 Емкость аккумулятора 4000 мА*ч Оперативная память 12 ГБ", "price": "29999" },
-    { "id": 13, "title": "Asus ZenFone 8 Flip 8/256GB", "img": "https://i.ebayimg.com/images/g/tMkAAOSwGbBgpjNJ/s-l300.jpg", "description": "Стандарт связи4G (LTE) 5G Диагональ экрана 6.78 Емкость аккумулятора 5000 мА*ч Количество мегапикселей основной камеры 64 Мп + 12 Мп + 8 Мп", "price": "26610" },
-    { "id": 14, "title": "Vivo IQOO 7", "img": "https://i2.wp.com/www.gizmoafrica.com/wp-content/uploads/2021/04/iQOO-7-India-1-300x300.jpg", "description": "Оперативная память 8 ГБ Количество мегапикселей основной камеры 48 Мп + 13 Мп + 13 Мп Количество мегапикселей фронтальной камеры 16 Мп", "price": "21383" },
-    { "id": 15, "title": "Google Pixel 4a 5G 6/128GB", "img": "https://sota.kh.ua/image/cache/data/Google-Pixel/google-pixel-4a-5g-white-01-300x300.jpg", "description": "Диагональ экрана 6.2 Емкость аккумулятора 3800 мА*ч Оперативная память 6 ГБ Встроенная память 128 ГБ", "price": "21045" },
-    { "id": 16, "title": "Land Rover Explore R 4/64GB", "img": "https://i.ebayimg.com/thumbs/images/g/BzUAAOSwwAVbZIM3/s-l300.jpg", "description": "Диагональ экрана 5.7 Емкость аккумулятора 3100 мА*ч Оперативная память 4 ГБ Разрешение дисплея 2040 x 1080 Встроенная память 64 ГБ", "price": "20700" },
-    { "id": 17, "title": "Apple iPhone Xr 128GB Red", "img": "https://ilounge.ua/files/products/apple-iphone-xr-128gb-product-red-mrye2-2.300x300.jpg", "description": "Экран (6.1, IPS, 1792x828)/ Apple A12 Bionic/ основная камера: 12 Мп, фронтальная камера: 7 Мп/ RAM 3 ГБ/ 128 ГБ встроенной памяти/ 3G/ LTE/ GPS/ Nano-SIM, eSIM/ iOS 12", "price": "20399" },
-    { "id": 18, "title": "Conquest S16 8/128Gb silver", "img": "https://images.ua.prom.st/3220164053_w300_h300_conquest-f2-luxury.jpg", "description": "Диагональ экрана 6.3 Емкость аккумулятора 6000 мА*ч Оперативная память 8 ГБ Разрешение дисплея 2280 x 1080 Тип матрицы IPS", "price": "19766" },
-    { "id": 19, "title": "CAT S62 + тепловизор Black", "img": "https://content1.rozetka.com.ua/goods/images/big/7730810.jpg", "description": " 3G 4G (LTE) Диагональ экрана 5.7 Емкость аккумулятора 4000 мА*ч Оперативная память 6 ГБ", "price": "19499" },
-    { "id": 20, "title": "Oppo Reno Ace 2 8/256Gb", "img": "https://i.ebayimg.com/thumbs/images/g/I~EAAOSwvJhgBUib/s-l300.jpg", "description": "Стандарт связи 3G 4G (LTE) CDMA Диагональ экрана 6.55 Емкость аккумулятора 4000 мА*ч Оперативная память 8 ГБ", "price": "17729" },
-    { "id": 21, "title": "BlackBerry Evolve 4/64Gb", "img": "https://vscenter.com.ua/wp-content/uploads/2017/04/remont-telefonov-blackberry-vsc1-300x300.jpg", "description": "Диагональ экрана 5.99 Операционная система Android Формат поддерживаемых карт памяти microSD", "price": "6050" },
-    { "id": 22, "title": "Honor 10 6/128Gb", "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/h/o/honor_10_128gb_blue_01.jpg", "description": "Диагональ экрана 5.84 Встроенная память 128 ГБ Операционная система Android", "price": "7700" },
-    { "id": 23, "title": "Lenovo Legion Pro 12Gb/128Gb", "img": "https://s.alicdn.com/@sc04/kf/Ha8cc528ed91446cb92917c25f092f9431.jpg_300x300.jpg", "description": "Стандарт связи 3G (WCDMA/UMTS/HSPA) 4G (LTE) Диагональ экрана 6.65 Емкость аккумулятора 5000 мА*ч Оперативная памятm 12 ГБ", "price": "14999" },
-    { "id": 24, "title": "UleFone Armor 10 5G black", "img": "https://сота.укр/image/cache/data/Ulefone/ulefone-armor-10-5g-blk-03-300x300.jpg", "description": "Диагональ экрана 6.5 Емкость аккумулятора 5800 мА*ч Оперативная память 8 ГБ Количество мегапикселей основной камеры 64 Мп + 8 Мп + 5 Мп + 2 Мп", "price": "14699" }
-  ]
+  "Valute": [
+        "AUD": {
+            "ID": "R01010",
+            "NumCode": "036",
+            "CharCode": "AUD",
+            "Nominal": 1,
+            "Name": "Австралийский доллар",
+            "Value": 53.0996,
+            "Previous": 52.9774
+        },
+        "AZN": {
+            "ID": "R01020A",
+            "NumCode": "944",
+            "CharCode": "AZN",
+            "Nominal": 1,
+            "Name": "Азербайджанский манат",
+            "Value": 42.7076,
+            "Previous": 42.6327
+        },
+        "GBP": {
+            "ID": "R01035",
+            "NumCode": "826",
+            "CharCode": "GBP",
+            "Nominal": 1,
+            "Name": "Фунт стерлингов Соединенного королевства",
+            "Value": 100.1621,
+            "Previous": 100.0805
+        },
+        "AMD": {
+            "ID": "R01060",
+            "NumCode": "051",
+            "CharCode": "AMD",
+            "Nominal": 100,
+            "Name": "Армянских драмов",
+            "Value": 14.7315,
+            "Previous": 14.7057
+        },
+        "BYN": {
+            "ID": "R01090B",
+            "NumCode": "933",
+            "CharCode": "BYN",
+            "Nominal": 1,
+            "Name": "Белорусский рубль",
+            "Value": 29.2475,
+            "Previous": 29.1762
+        },
+        "BGN": {
+            "ID": "R01100",
+            "NumCode": "975",
+            "CharCode": "BGN",
+            "Nominal": 1,
+            "Name": "Болгарский лев",
+            "Value": 43.6925,
+            "Previous": 43.6185
+        },
+        "BRL": {
+            "ID": "R01115",
+            "NumCode": "986",
+            "CharCode": "BRL",
+            "Nominal": 1,
+            "Name": "Бразильский реал",
+            "Value": 13.8031,
+            "Previous": 13.867
+        },
+        "HUF": {
+            "ID": "R01135",
+            "NumCode": "348",
+            "CharCode": "HUF",
+            "Nominal": 100,
+            "Name": "Венгерских форинтов",
+            "Value": 24.3433,
+            "Previous": 24.4541
+        },
+        "HKD": {
+            "ID": "R01200",
+            "NumCode": "344",
+            "CharCode": "HKD",
+            "Nominal": 10,
+            "Name": "Гонконгских долларов",
+            "Value": 93.2279,
+            "Previous": 93.0607
+        },
+        "DKK": {
+            "ID": "R01215",
+            "NumCode": "208",
+            "CharCode": "DKK",
+            "Nominal": 1,
+            "Name": "Датская крона",
+            "Value": 11.493,
+            "Previous": 11.4718
+        },
+        "USD": {
+            "ID": "R01235",
+            "NumCode": "840",
+            "CharCode": "USD",
+            "Nominal": 1,
+            "Name": "Доллар США",
+            "Value": 72.5602,
+            "Previous": 72.4329
+        },
+        "EUR": {
+            "ID": "R01239",
+            "NumCode": "978",
+            "CharCode": "EUR",
+            "Nominal": 1,
+            "Name": "Евро",
+            "Value": 85.4614,
+            "Previous": 85.3622
+        },
+        "INR": {
+            "ID": "R01270",
+            "NumCode": "356",
+            "CharCode": "INR",
+            "Nominal": 100,
+            "Name": "Индийских рупий",
+            "Value": 98.6677,
+            "Previous": 98.6287
+        },
+        "KZT": {
+            "ID": "R01335",
+            "NumCode": "398",
+            "CharCode": "KZT",
+            "Nominal": 100,
+            "Name": "Казахстанских тенге",
+            "Value": 17.0389,
+            "Previous": 17.029
+        },
+        "CAD": {
+            "ID": "R01350",
+            "NumCode": "124",
+            "CharCode": "CAD",
+            "Nominal": 1,
+            "Name": "Канадский доллар",
+            "Value": 57.3916,
+            "Previous": 57.2864
+        },
+        "KGS": {
+            "ID": "R01370",
+            "NumCode": "417",
+            "CharCode": "KGS",
+            "Nominal": 100,
+            "Name": "Киргизских сомов",
+            "Value": 85.5429,
+            "Previous": 85.3928
+        },
+        "CNY": {
+            "ID": "R01375",
+            "NumCode": "156",
+            "CharCode": "CNY",
+            "Nominal": 1,
+            "Name": "Китайский юань",
+            "Value": 11.2456,
+            "Previous": 11.2391
+        },
+        "MDL": {
+            "ID": "R01500",
+            "NumCode": "498",
+            "CharCode": "MDL",
+            "Nominal": 10,
+            "Name": "Молдавских леев",
+            "Value": 41.1689,
+            "Previous": 41.12
+        },
+        "NOK": {
+            "ID": "R01535",
+            "NumCode": "578",
+            "CharCode": "NOK",
+            "Nominal": 10,
+            "Name": "Норвежских крон",
+            "Value": 84.3125,
+            "Previous": 84.1734
+        },
+        "PLN": {
+            "ID": "R01565",
+            "NumCode": "985",
+            "CharCode": "PLN",
+            "Nominal": 1,
+            "Name": "Польский злотый",
+            "Value": 18.6688,
+            "Previous": 18.6635
+        },
+        "RON": {
+            "ID": "R01585F",
+            "NumCode": "946",
+            "CharCode": "RON",
+            "Nominal": 1,
+            "Name": "Румынский лей",
+            "Value": 17.2688,
+            "Previous": 17.2394
+        },
+        "XDR": {
+            "ID": "R01589",
+            "NumCode": "960",
+            "CharCode": "XDR",
+            "Nominal": 1,
+            "Name": "СДР (специальные права заимствования)",
+            "Value": 103.2582,
+            "Previous": 103.2893
+        },
+        "SGD": {
+            "ID": "R01625",
+            "NumCode": "702",
+            "CharCode": "SGD",
+            "Nominal": 1,
+            "Name": "Сингапурский доллар",
+            "Value": 53.916,
+            "Previous": 53.9296
+        },
+        "TJS": {
+            "ID": "R01670",
+            "NumCode": "972",
+            "CharCode": "TJS",
+            "Nominal": 10,
+            "Name": "Таджикских сомони",
+            "Value": 63.9889,
+            "Previous": 63.902
+        },
+        "TRY": {
+            "ID": "R01700J",
+            "NumCode": "949",
+            "CharCode": "TRY",
+            "Nominal": 10,
+            "Name": "Турецких лир",
+            "Value": 84.5168,
+            "Previous": 85.7549
+        },
+        "TMT": {
+            "ID": "R01710A",
+            "NumCode": "934",
+            "CharCode": "TMT",
+            "Nominal": 1,
+            "Name": "Новый туркменский манат",
+            "Value": 20.7611,
+            "Previous": 20.7247
+        },
+        "UZS": {
+            "ID": "R01717",
+            "NumCode": "860",
+            "CharCode": "UZS",
+            "Nominal": 10000,
+            "Name": "Узбекских сумов",
+            "Value": 67.9335,
+            "Previous": 67.6564
+        },
+        "UAH": {
+            "ID": "R01720",
+            "NumCode": "980",
+            "CharCode": "UAH",
+            "Nominal": 10,
+            "Name": "Украинских гривен",
+            "Value": 27.1405,
+            "Previous": 27.1597
+        },
+        "CZK": {
+            "ID": "R01760",
+            "NumCode": "203",
+            "CharCode": "CZK",
+            "Nominal": 10,
+            "Name": "Чешских крон",
+            "Value": 33.7835,
+            "Previous": 33.7242
+        },
+        "SEK": {
+            "ID": "R01770",
+            "NumCode": "752",
+            "CharCode": "SEK",
+            "Nominal": 10,
+            "Name": "Шведских крон",
+            "Value": 84.158,
+            "Previous": 84.0328
+        },
+        "CHF": {
+            "ID": "R01775",
+            "NumCode": "756",
+            "CharCode": "CHF",
+            "Nominal": 1,
+            "Name": "Швейцарский франк",
+            "Value": 78.2996,
+            "Previous": 78.484
+        },
+        "ZAR": {
+            "ID": "R01810",
+            "NumCode": "710",
+            "CharCode": "ZAR",
+            "Nominal": 10,
+            "Name": "Южноафриканских рэндов",
+            "Value": 49.658,
+            "Previous": 49.9348
+        },
+        "KRW": {
+            "ID": "R01815",
+            "NumCode": "410",
+            "CharCode": "KRW",
+            "Nominal": 1000,
+            "Name": "Вон Республики Корея",
+            "Value": 61.6081,
+            "Previous": 61.7657
+        },
+        "JPY": {
+            "ID": "R01820",
+            "NumCode": "392",
+            "CharCode": "JPY",
+            "Nominal": 100,
+            "Name": "Японских иен",
+            "Value": 66.0148,
+            "Previous": 66.2244
+        }
+    ]
 }
