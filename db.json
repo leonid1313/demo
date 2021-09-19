@@ -28,15 +28,6 @@
             "Previous": 100.0805
         },
         {
-            "ID": "R01060",
-            "NumCode": "051",
-            "CharCode": "AMD",
-            "Nominal": 100,
-            "Name": "Армянских драмов",
-            "Value": 14.7315,
-            "Previous": 14.7057
-        },
-        {
             "ID": "R01090B",
             "NumCode": "933",
             "CharCode": "BYN",
@@ -62,15 +53,6 @@
             "Name": "Бразильский реал",
             "Value": 13.8031,
             "Previous": 13.867
-        },
-        {
-            "ID": "R01135",
-            "NumCode": "348",
-            "CharCode": "HUF",
-            "Nominal": 100,
-            "Name": "Венгерских форинтов",
-            "Value": 24.3433,
-            "Previous": 24.4541
         },
         {
             "ID": "R01200",
@@ -136,15 +118,6 @@
             "Previous": 57.2864
         },
         {
-            "ID": "R01370",
-            "NumCode": "417",
-            "CharCode": "KGS",
-            "Nominal": 100,
-            "Name": "Киргизских сомов",
-            "Value": 85.5429,
-            "Previous": 85.3928
-        },
-        {
             "ID": "R01375",
             "NumCode": "156",
             "CharCode": "CNY",
@@ -188,15 +161,6 @@
             "Name": "Румынский лей",
             "Value": 17.2688,
             "Previous": 17.2394
-        },
-        {
-            "ID": "R01589",
-            "NumCode": "960",
-            "CharCode": "XDR",
-            "Nominal": 1,
-            "Name": "СДР (специальные права заимствования)",
-            "Value": 103.2582,
-            "Previous": 103.2893
         },
         {
             "ID": "R01625",
