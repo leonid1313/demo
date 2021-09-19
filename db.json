@@ -1,6 +1,6 @@
 {
   "Valute": [
-        "AUD": {
+        {
             "ID": "R01010",
             "NumCode": "036",
             "CharCode": "AUD",
@@ -9,7 +9,7 @@
             "Value": 53.0996,
             "Previous": 52.9774
         },
-        "AZN": {
+        {
             "ID": "R01020A",
             "NumCode": "944",
             "CharCode": "AZN",
@@ -18,7 +18,7 @@
             "Value": 42.7076,
             "Previous": 42.6327
         },
-        "GBP": {
+        {
             "ID": "R01035",
             "NumCode": "826",
             "CharCode": "GBP",
@@ -27,7 +27,7 @@
             "Value": 100.1621,
             "Previous": 100.0805
         },
-        "AMD": {
+        {
             "ID": "R01060",
             "NumCode": "051",
             "CharCode": "AMD",
@@ -36,7 +36,7 @@
             "Value": 14.7315,
             "Previous": 14.7057
         },
-        "BYN": {
+        {
             "ID": "R01090B",
             "NumCode": "933",
             "CharCode": "BYN",
@@ -45,7 +45,7 @@
             "Value": 29.2475,
             "Previous": 29.1762
         },
-        "BGN": {
+        {
             "ID": "R01100",
             "NumCode": "975",
             "CharCode": "BGN",
@@ -54,7 +54,7 @@
             "Value": 43.6925,
             "Previous": 43.6185
         },
-        "BRL": {
+        {
             "ID": "R01115",
             "NumCode": "986",
             "CharCode": "BRL",
@@ -63,7 +63,7 @@
             "Value": 13.8031,
             "Previous": 13.867
         },
-        "HUF": {
+        {
             "ID": "R01135",
             "NumCode": "348",
             "CharCode": "HUF",
@@ -72,7 +72,7 @@
             "Value": 24.3433,
             "Previous": 24.4541
         },
-        "HKD": {
+        {
             "ID": "R01200",
             "NumCode": "344",
             "CharCode": "HKD",
@@ -81,7 +81,7 @@
             "Value": 93.2279,
             "Previous": 93.0607
         },
-        "DKK": {
+        {
             "ID": "R01215",
             "NumCode": "208",
             "CharCode": "DKK",
@@ -90,7 +90,7 @@
             "Value": 11.493,
             "Previous": 11.4718
         },
-        "USD": {
+        {
             "ID": "R01235",
             "NumCode": "840",
             "CharCode": "USD",
@@ -99,7 +99,7 @@
             "Value": 72.5602,
             "Previous": 72.4329
         },
-        "EUR": {
+        {
             "ID": "R01239",
             "NumCode": "978",
             "CharCode": "EUR",
@@ -108,7 +108,7 @@
             "Value": 85.4614,
             "Previous": 85.3622
         },
-        "INR": {
+        {
             "ID": "R01270",
             "NumCode": "356",
             "CharCode": "INR",
@@ -117,7 +117,7 @@
             "Value": 98.6677,
             "Previous": 98.6287
         },
-        "KZT": {
+        {
             "ID": "R01335",
             "NumCode": "398",
             "CharCode": "KZT",
@@ -126,7 +126,7 @@
             "Value": 17.0389,
             "Previous": 17.029
         },
-        "CAD": {
+        {
             "ID": "R01350",
             "NumCode": "124",
             "CharCode": "CAD",
@@ -135,7 +135,7 @@
             "Value": 57.3916,
             "Previous": 57.2864
         },
-        "KGS": {
+        {
             "ID": "R01370",
             "NumCode": "417",
             "CharCode": "KGS",
@@ -144,7 +144,7 @@
             "Value": 85.5429,
             "Previous": 85.3928
         },
-        "CNY": {
+        {
             "ID": "R01375",
             "NumCode": "156",
             "CharCode": "CNY",
@@ -153,7 +153,7 @@
             "Value": 11.2456,
             "Previous": 11.2391
         },
-        "MDL": {
+        {
             "ID": "R01500",
             "NumCode": "498",
             "CharCode": "MDL",
@@ -162,7 +162,7 @@
             "Value": 41.1689,
             "Previous": 41.12
         },
-        "NOK": {
+        {
             "ID": "R01535",
             "NumCode": "578",
             "CharCode": "NOK",
@@ -171,7 +171,7 @@
             "Value": 84.3125,
             "Previous": 84.1734
         },
-        "PLN": {
+        {
             "ID": "R01565",
             "NumCode": "985",
             "CharCode": "PLN",
@@ -180,7 +180,7 @@
             "Value": 18.6688,
             "Previous": 18.6635
         },
-        "RON": {
+        {
             "ID": "R01585F",
             "NumCode": "946",
             "CharCode": "RON",
@@ -189,7 +189,7 @@
             "Value": 17.2688,
             "Previous": 17.2394
         },
-        "XDR": {
+        {
             "ID": "R01589",
             "NumCode": "960",
             "CharCode": "XDR",
@@ -198,7 +198,7 @@
             "Value": 103.2582,
             "Previous": 103.2893
         },
-        "SGD": {
+        {
             "ID": "R01625",
             "NumCode": "702",
             "CharCode": "SGD",
@@ -207,7 +207,7 @@
             "Value": 53.916,
             "Previous": 53.9296
         },
-        "TJS": {
+        {
             "ID": "R01670",
             "NumCode": "972",
             "CharCode": "TJS",
@@ -216,7 +216,7 @@
             "Value": 63.9889,
             "Previous": 63.902
         },
-        "TRY": {
+        {
             "ID": "R01700J",
             "NumCode": "949",
             "CharCode": "TRY",
@@ -225,7 +225,7 @@
             "Value": 84.5168,
             "Previous": 85.7549
         },
-        "TMT": {
+        {
             "ID": "R01710A",
             "NumCode": "934",
             "CharCode": "TMT",
@@ -234,7 +234,7 @@
             "Value": 20.7611,
             "Previous": 20.7247
         },
-        "UZS": {
+        {
             "ID": "R01717",
             "NumCode": "860",
             "CharCode": "UZS",
@@ -243,7 +243,7 @@
             "Value": 67.9335,
             "Previous": 67.6564
         },
-        "UAH": {
+        {
             "ID": "R01720",
             "NumCode": "980",
             "CharCode": "UAH",
@@ -252,7 +252,7 @@
             "Value": 27.1405,
             "Previous": 27.1597
         },
-        "CZK": {
+        {
             "ID": "R01760",
             "NumCode": "203",
             "CharCode": "CZK",
@@ -261,7 +261,7 @@
             "Value": 33.7835,
             "Previous": 33.7242
         },
-        "SEK": {
+        {
             "ID": "R01770",
             "NumCode": "752",
             "CharCode": "SEK",
@@ -270,7 +270,7 @@
             "Value": 84.158,
             "Previous": 84.0328
         },
-        "CHF": {
+        {
             "ID": "R01775",
             "NumCode": "756",
             "CharCode": "CHF",
@@ -279,7 +279,7 @@
             "Value": 78.2996,
             "Previous": 78.484
         },
-        "ZAR": {
+        {
             "ID": "R01810",
             "NumCode": "710",
             "CharCode": "ZAR",
@@ -288,7 +288,7 @@
             "Value": 49.658,
             "Previous": 49.9348
         },
-        "KRW": {
+        {
             "ID": "R01815",
             "NumCode": "410",
             "CharCode": "KRW",
@@ -297,7 +297,7 @@
             "Value": 61.6081,
             "Previous": 61.7657
         },
-        "JPY": {
+        {
             "ID": "R01820",
             "NumCode": "392",
             "CharCode": "JPY",
